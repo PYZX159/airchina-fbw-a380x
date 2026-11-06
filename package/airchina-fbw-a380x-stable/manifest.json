@@ -1,0 +1,21 @@
+{
+  "dependencies": [
+    {
+      "name": "flybywire-aircraft-a380-842",
+      "package_version": "2024.1.0"
+    }
+  ],
+  "content_type": "LIVERY",
+  "title": "Air China Fictional B-38AC - FlyByWire A380X Stable",
+  "manufacturer": "Airbus",
+  "creator": "Eason",
+  "package_version": "0.1.1",
+  "minimum_game_version": "1.26.5",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "Added nine missing MSFS DDS bitmap descriptors and rebuilt the package index to address missing pink checkerboard textures.",
+      "OlderHistory": "0.1.0: Initial fictional Air China repaint for the non-modular A380X Stable 2024.1.0. B-38AC is a fictional registration."
+    }
+  },
+  "total_package_size": "00000000000159450690"
+}

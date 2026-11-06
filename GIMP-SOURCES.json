@@ -1,0 +1,22 @@
+{
+  "archive": "AirChina-FBW-A380X-GIMP-Sources-v0.1.1.zip",
+  "extract_into": "repository root",
+  "algorithm": "SHA-256",
+  "note": "Original XCF bytes recorded before publication preparation; no XCF was resaved or converted.",
+  "files": [
+    {"path": "artwork/projection/AirChina_side_neg_x.xcf", "bytes": 555333, "sha256": "6edf4d1289b11f7e78e7a284a8242f3f6875ed3db0b4e71d80e13ae29879de30"},
+    {"path": "artwork/projection/AirChina_side_pos_x.xcf", "bytes": 555164, "sha256": "4eb53f6c393553f13b20ede624d252f33f4256ac292b2a2ae0624284f39fb2b1"},
+    {"path": "artwork/xcf/A380_EXTERIOR_ENG_LH_ALBEDO.xcf", "bytes": 165566, "sha256": "580b876dab91e918ae6ffeb66b0e78a9ca4aed0c2894e46398390bb7cd2f1899"},
+    {"path": "artwork/xcf/A380_EXTERIOR_ENG_RH_ALBEDO.xcf", "bytes": 165566, "sha256": "580b876dab91e918ae6ffeb66b0e78a9ca4aed0c2894e46398390bb7cd2f1899"},
+    {"path": "artwork/xcf/A380X_EXTERIOR_WINGFENCE_ALBEDO.xcf", "bytes": 11926, "sha256": "888214718f0e6c6ff175516effee637ad97c94f862e7f9d474591d20e4f96d5d"},
+    {"path": "artwork/xcf/A380X_FUSE1_ALBEDO.xcf", "bytes": 47590141, "sha256": "a4f3a2340631eb2ba0f7ad1a8d19781bd1363a8e23f89e564317beb25dcaa924"},
+    {"path": "artwork/xcf/A380X_FUSE2_ALBEDO.xcf", "bytes": 48538877, "sha256": "c41f5a9bfeebfe66375657eafd67a99d0fc5ed24d694a875c76a379173faf212"},
+    {"path": "artwork/xcf/A380X_FUSE3_ALBEDO.xcf", "bytes": 79393862, "sha256": "0f7542a6ecc74745694e9cbea006e63be1a04b3f657808b8303b60eabc23d6fa"},
+    {"path": "artwork/xcf/A380X_FUSE4_ALBEDO.xcf", "bytes": 141243505, "sha256": "762b455af59be297c800ea90731c0b1818e7c7f6b1164ef8f71ea4603d40017b"},
+    {"path": "artwork/xcf/A380X_FUSE5_ALBEDO.xcf", "bytes": 102554346, "sha256": "f73f361abebef434793c63423f9a9d799b97f935d8b4ad48ada3c47ddaaf6736"},
+    {"path": "artwork/xcf/A380X_REGISTRATION_B38AC.xcf", "bytes": 2191361, "sha256": "7c0cd01163ab9a742f6c0b23d77e7149f916bc145dd69dd177ee844cc417335c"}
+  ],
+  "duplicate_local_aliases_not_required_in_archive": [
+    {"path": "artwork/source/A380X_REGISTRATION_B38AC.xcf", "same_as": "artwork/xcf/A380X_REGISTRATION_B38AC.xcf", "bytes": 2191361, "sha256": "7c0cd01163ab9a742f6c0b23d77e7149f916bc145dd69dd177ee844cc417335c"}
+  ]
+}

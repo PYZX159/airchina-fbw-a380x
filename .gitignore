@@ -1,0 +1,75 @@
+# Local profiles, credentials, logs and scratch output
+/.local/
+/gimp*-profile/
+/helper-gimp-profile/
+__pycache__/
+*.py[cod]
+*.log
+*-log.txt
+progress.txt
+/validation-result.txt
+/helper-test/
+/diagnostics/
+/gimp_api*.txt
+/helper_api*.txt
+/psd_layers.json
+
+# Historical probes and local-only instructions
+/helper_*.py
+!/helper_export.py
+!/helper_registration_make.py
+/inspect_*.py
+/README-zh-CN.md
+
+# All editable GIMP originals are distributed in a separate Release source ZIP.
+# This includes FUSE4 (141,243,505 bytes), which exceeds 100 MiB.
+*.xcf
+*.XCF
+*.xcf~
+
+# Downloaded/raw third-party packages and models are not repository source.
+/resources/*
+!/resources/airchina/
+/resources/airchina/*
+!/resources/airchina/airchina-full-lockup-companieslogo.svg
+!/resources/airchina/airchina-phoenix-companieslogo.svg
+!/resources/airchina/airchina-wordmark-commons.svg
+!/resources/airchina/SOURCES.md
+*.psd
+*.PSD
+*.fbx
+*.FBX
+*.obj
+*.OBJ
+*.mtl
+*.rar
+
+# Uncompiled Native SDK experiment and reproducible intermediate texture layers
+/project/
+/artwork/template/
+/artwork/orientation-check/
+/artwork/final/*_done.json
+/artwork/final/*report.json
+/artwork/final/registration-edit.json
+/artwork/baked/*manifest.json
+/artwork/baked/background-repair.json
+/artwork/baked/projection-*.png
+
+# Third-party geometry, caches, packed Blender files and machine-specific reports
+*.blend
+*.blend[0-9]
+*.npz
+/geometry/geometry-report.json
+/geometry/window-boundaries.json
+/geometry/*_uv.svg
+/geometry/*.png
+/preview/render-manifest.json
+
+# Publish the validated final ZIP in Git; the full XCF ZIP is a Release asset.
+/deliverables/*
+!/deliverables/AirChina-FBW-A380X-Stable-v0.1.1.zip
+
+# Editor/OS files
+.DS_Store
+Thumbs.db
+.vscode/

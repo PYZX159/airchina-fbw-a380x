@@ -1,0 +1,124 @@
+{
+  "content": [
+    {
+      "path": "README.txt",
+      "size": 2692,
+      "date": 134384181886175745
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/aircraft.cfg",
+      "size": 987,
+      "date": 134384065115780310
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/model.AIRCHINA/model.cfg",
+      "size": 448,
+      "date": 134384065123337245
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/A380_EXTERIOR_ENG_LH_ALBEDO.PNG.DDS",
+      "size": 22369796,
+      "date": 134384073180167664
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/A380_EXTERIOR_ENG_LH_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 134384182727424385
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/A380_EXTERIOR_ENG_RH_ALBEDO.PNG.DDS",
+      "size": 22369796,
+      "date": 134384073201156653
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/A380_EXTERIOR_ENG_RH_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 134384182727444460
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/A380X_EXTERIOR_WINGFENCE_ALBEDO.PNG.DDS",
+      "size": 1398276,
+      "date": 134384073891075837
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/A380X_EXTERIOR_WINGFENCE_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 134384182727444460
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/A380X_FUSE1_ALBEDO.PNG.DDS",
+      "size": 22369796,
+      "date": 134384072488239582
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/A380X_FUSE1_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 134384182727454397
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/A380X_FUSE2_ALBEDO.PNG.DDS",
+      "size": 22369796,
+      "date": 134384072546037744
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/A380X_FUSE2_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 134384182727464383
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/A380X_FUSE3_ALBEDO.PNG.DDS",
+      "size": 22369796,
+      "date": 134384072611021903
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/A380X_FUSE3_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 134384182727474383
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/A380X_FUSE4_ALBEDO.PNG.DDS",
+      "size": 22369796,
+      "date": 134384072699112174
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/A380X_FUSE4_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 134384182727484554
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/A380X_FUSE5_ALBEDO.PNG.DDS",
+      "size": 22369796,
+      "date": 134384072775482521
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/A380X_FUSE5_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 134384182727494463
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/A380X_REGISTRATION_ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 134384071691875783
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/A380X_REGISTRATION_ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 134384182727509604
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/texture.cfg",
+      "size": 55,
+      "date": 134384065130548977
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/thumbnail_small.jpg",
+      "size": 12883,
+      "date": 134384074640189446
+    },
+    {
+      "path": "SimObjects/AirPlanes/FlyByWire_A380_842_AirChina_Fictional/texture.AIRCHINA/thumbnail.jpg",
+      "size": 47586,
+      "date": 134384074634161163
+    }
+  ]
+}

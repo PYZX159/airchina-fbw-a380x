@@ -1,0 +1,13 @@
+{
+  "width": 8192,
+  "height": 2560,
+  "Y_min": -38,
+  "Y_max": 40,
+  "Z_min": -4,
+  "Z_max": 20.375,
+  "pos_x": "port; U=(Y+38)/78",
+  "neg_x": "starboard; U=(40-Y)/78",
+  "registration": "B-38AC (fictional)",
+  "blue": "#153A73",
+  "base": "#F5F5F2"
+}
